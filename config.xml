@@ -28,7 +28,7 @@
  <plugin name="cordova-plugin-device" spec="~1.1.4" />
  <plugin name="cordova-plugin-vibration" spec="~2.1.3" />
  <plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
-
+ 
  <!-- Para accesar a paginas en internet-->
  <allow-intent href="htpps://*/*"/>
  <acces origin="https://*/*"/>
@@ -36,11 +36,8 @@
  <acces origin="http://*/*"/>
  <plugin name="cordova-plugin-whitelist" source="npm"/>
  
- 
- <!-- <plugin name="cordova-plugin-geolocation" source=npm"/>-->
- 
  <!-- Colocar icono app-->
- 
  <icon src="res/android/mdpi.png"/>
  
  </widget>
+
