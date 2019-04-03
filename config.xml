@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?> 
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
  xmlns:gap = "http://phonegap.com/ns/1.0"
  id = "com.phonegap.app3"
  version = "1.0.0">
  
- <name> app3-DiaMundialDeLaSalud </name>
+ <name> app3- Dia Mundial de la Salud </name>
  
  <description>
-  Aplicacion que nos muestra información sobre el dia mundial de la salud
+  Aplicacion que nos muestra la informacion sobre el dia mundial de la salud y la OMS
  </description>
  
  <author href="htpps://build.phonegap.com" email="zurielkyriat@gmail.com">
@@ -40,4 +40,3 @@
  <icon src="res/android/mdpi.png"/>
  
  </widget>
-
